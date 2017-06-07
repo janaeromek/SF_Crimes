@@ -8,7 +8,8 @@ Contributors:
 ## Abstract
 This project uses R, R Studio, and a Shiny dashboard.
 
-To-do list June 6th:
+## To-do list June 6th:
 + Make Shiny checkboxes for DayOfWeek, Category, Year work
 + Input R Studio script into Server
 + Make project bomb af
++ Make script/s of code for github repo
